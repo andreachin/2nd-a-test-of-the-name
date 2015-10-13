@@ -7,3 +7,4 @@
 3、目前存疑
 a.命名的修改
 b.我建立了两个branch：master和andreachin－patch－1，后者的修改如何merge到前者？
+c.readme文件保存后到显示效果，不是编辑状态下的格式效果，这一点要紧吗？
